@@ -1,0 +1,63 @@
+/3/2023-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lina</title>
+    </head>
+    <body>
+        <!-- unordered list -->
+        <h2>Lina guide</h2>
+        <ul style="list-style-type: square;">
+            <li>falcon blade</li>
+            <li>maelstrom</li>
+            <li>boots of travel</li>
+            <li>black king back</li>
+            <li>gleipneir</li>
+        </ul>
+        
+          <!-- ordered list -->
+          <ol type="1"> 
+          <h2>skill build</h3>
+          <li>light strike aray</li>
+          <li>fiery soul</li>
+          <li>dragon slave</li> 
+          <li>fiery soul</li>
+          <li>fiery soul</li>
+          <li>laguna blade</li>
+         </ol>
+
+         <!-- description list-->
+         <h2>counters</h2>
+         <dl>
+            <dt>faceless void</dt>
+            <dd>chrono destroys lina</dd>
+            <dt>axe</dt>
+            <dd>lina kills herself to call blademail</dd>
+            <dt>spirit breaker</dt>
+            <dd>charge destroys lina plus ult lockdown plus status res on bara</dd>
+            <dt>antimage</dt>
+            <dd>lina has high mana pool + limited catch for am</dd>
+
+
+
+
+         </dl>
+
+         <!---->
+
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+</html>
